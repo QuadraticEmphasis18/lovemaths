@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert(`You clicked ${gameType}`);
             }
     })
-})
+}
 function runGame() {
 
 }
@@ -48,4 +48,5 @@ function displayMultiplyQuestion() {
 
 function displayDivisionQuestion() {
 
-}
+} 
+})
